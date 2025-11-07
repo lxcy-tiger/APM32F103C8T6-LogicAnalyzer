@@ -1,0 +1,3 @@
+/home/lxcy/Desktop/APM32F103C8_CMAKE_Template/build/CMakeFiles/APM32F103C8_Template.dir
+/home/lxcy/Desktop/APM32F103C8_CMAKE_Template/build/CMakeFiles/edit_cache.dir
+/home/lxcy/Desktop/APM32F103C8_CMAKE_Template/build/CMakeFiles/rebuild_cache.dir
